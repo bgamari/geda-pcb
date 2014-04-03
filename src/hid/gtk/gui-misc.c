@@ -37,6 +37,7 @@
 #include "gui.h"
 #include <gdk/gdkkeysyms.h>
 
+#include <locale.h>
 #ifdef HAVE_LIBDMALLOC
 #include <dmalloc.h>
 #endif

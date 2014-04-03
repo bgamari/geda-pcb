@@ -47,9 +47,7 @@
 #include "pcb-printf.h"
 #include "set.h"
 
-#if 0
 #include <locale.h>
-#endif
 #ifdef HAVE_LIBDMALLOC
 #include <dmalloc.h>
 #endif
